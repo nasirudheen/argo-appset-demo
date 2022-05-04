@@ -6,7 +6,7 @@
   },
   "k8s_cluster": {
     "owner": "admin@company.com",
-    "address": "https://kubernetes.default.svc",
+    "address": "https://192.168.122.11:6443",
     "namespace": "argocd"
   }
 }
