@@ -11,7 +11,7 @@ spec:
   # The project the application belongs to.
   project: default
   source:
-    repoURL: https://github.com/xsreality/argocd-applicationset-demo.git
+    repoURL: https://github.com/nasirudheen/argo-appset-demo.git
     targetRevision: argocd-applicationsets
     path: applicationsets
   destination:
